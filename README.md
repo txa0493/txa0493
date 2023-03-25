@@ -1,4 +1,4 @@
-<h1>Hi, My name is Twinkle L. Jackson, an <a href="https://linkedin.com/in/twinkle-jackson">IT Professional</a>☺</h1>
+<h1>Hi, My name is Twinkle L. Jackson, an <a href="https://linkedin.com/in/twinkle-jackson">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
